@@ -14,9 +14,9 @@
 "I'm on it!" I replied, and headed back to my desk to get started...
 
 ## 🎯 Goals
-* Explore the dataset, handling missing entries
-* Determine the salaries for software developers and engineers in USD
-* Determine the average S/E salary for each currency and the average S/E salary for each currency based on age
+* Explore the dataset, handling missing entries.
+* Convert all salaries for software developers and engineers to USD.
+* Determine the average software engineer salary for each currency and the average salary for each currency based on age.
 * Visualize a comparison by plotting the salaries based on age for the top 4 currencies in the merged dataset
 
 ## 🏗 Dependencies
@@ -26,3 +26,16 @@
 * pandas
 * re
 * seaborn
+
+## 📂 Data
+[CSV in repository](https://github.com/JacobTews/preprocessing_and_eda/blob/main/data/Ask%20A%20Manager%20Salary%20Survey%202021%20(Responses)%20-%20Form%20Responses%201.csv)
+
+[Original source](https://www.askamanager.org/2021/05/look-at-24000-peoples-real-life-salaries.html)
+* N.B. - While the dataset is substantial, the responses for any one specific category (with a few exceptions) are limited, so general conclusions will require further study.
+
+## 💡 Insights
+* Salaries for tech roles **peak mid-career (age 35-44)**, likely because some of those in higher age brackets have moved into leadership positions and no longer identify as software engineers/developers.
+* Salaries are notably **higher for those paid in $USD** than elsewhere.
+* Salaries are particularly **low for those in the United Kingdom**.
+<br/><br/>
+![salary bar graph](https://github.com/JacobTews/preprocessing_and_eda/blob/main/insights/compensation_visual.png?raw=true)
