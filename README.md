@@ -1,6 +1,6 @@
 # Sample project: Preprocessing and EDA
 
-**"HR has requested some help with a project," my team lead, Jordan, explained**
+### "HR has requested some help with a project," my team lead, Jordan, explained
 
 "They have data from a survey given to a bunch of managers, and they'd like you to go through it to find:
 * the average salary for a software engineer for each currency,
