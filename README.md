@@ -39,3 +39,6 @@
 * Salaries are particularly **low for those in the United Kingdom**.
 <br/><br/>
 ![salary bar graph](https://github.com/JacobTews/preprocessing_and_eda/blob/main/insights/compensation_visual.png?raw=true)
+
+## 🛠 Want to dig into my code?
+Here's the [notebook](https://github.com/JacobTews/preprocessing_and_eda/blob/main/preprocessing_and_eda.ipynb) for your perusal, fully annotated.
