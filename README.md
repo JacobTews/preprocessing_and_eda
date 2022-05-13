@@ -13,8 +13,16 @@
 
 "I'm on it!" I replied, and headed back to my desk to get started...
 
-## My tasks
+## 🎯 Goals
 * Explore the dataset, handling missing entries
 * Determine the salaries for software developers and engineers in USD
 * Determine the average S/E salary for each currency and the average S/E salary for each currency based on age
 * Visualize a comparison by plotting the salaries based on age for the top 4 currencies in the merged dataset
+
+## 🏗 Dependencies
+* Python 3.9.7
+* matplotlib.pyplot
+* numpy
+* pandas
+* re
+* seaborn
